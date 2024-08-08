@@ -12,6 +12,7 @@ The following table of contents is helpful if you want to navigate the material 
 * [Multi-layer Perceptron (MLP)](notebooks/multi-layer-perceptron.ipynb)
   * [Backpropagation](notebooks/backpropagation.ipynb)
   * [Training an MLP](notebooks/mlp-training.ipynb)
+    * 🚧 Gradient
   * [MNIST example](notebooks/mnist.ipynb)
 * [Sequence-to-sequence tasks](https://lena-voita.github.io/nlp_course/seq2seq_and_attention.html#seq2seq_basics_intro)
 * [Encoder-decoder framework](https://lena-voita.github.io/nlp_course/seq2seq_and_attention.html#enc_dec_framework)
@@ -22,11 +23,15 @@ The following table of contents is helpful if you want to navigate the material 
 * Positional Encoding
 * Normalization
 * [Transformer architecture](https://lena-voita.github.io/nlp_course/seq2seq_and_attention.html#transformer_model_architecture)
-* Foundation Models
-* Generative Pre-trained Transformer
+  * 🚧 Foundation Models
+  * 🚧 Generative Pre-trained Transformer
 * Use cases for generative AI
   * Retrieval-Augmented Generation (RAG)
   * Image segmentation
 * Hands-on 
   * [Hands-on: GitHub Copilot](notebooks/github-copilot-exercise.md)
   * [Hands-on: Using LLMs]()
+
+## Running the Jupyter notebooks
+
+The [requirements.txt](requirements.txt) file in the root of this repository lists all Python packages and their corresponding versions installed in my Python virtual environment (the file was obtained by `pip freeze > requirements.txt`).
