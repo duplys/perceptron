@@ -10,7 +10,8 @@ The following table of contents is helpful if you want to navigate the material 
 
 * [Perceptron](notebooks/perceptron.ipynb)
 * [Multi-layer Perceptron (MLP)](notebooks/multi-layer-perceptron.ipynb)
-  * [Learning MLP weights](notebooks/mlp-training.ipynb)
+  * [Backpropagation](notebooks/backpropagation.ipynb)
+  * [Training an MLP](notebooks/mlp-training.ipynb)
   * [MNIST example](notebooks/mnist.ipynb)
 * [Sequence-to-sequence tasks](https://lena-voita.github.io/nlp_course/seq2seq_and_attention.html#seq2seq_basics_intro)
 * [Encoder-decoder framework](https://lena-voita.github.io/nlp_course/seq2seq_and_attention.html#enc_dec_framework)
