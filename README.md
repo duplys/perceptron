@@ -23,14 +23,16 @@ The following table of contents is helpful if you want to navigate the material 
 * 🚧 Positional Encoding
 * 🚧 Normalization
 * [Transformer architecture](https://lena-voita.github.io/nlp_course/seq2seq_and_attention.html#transformer_model_architecture)
-  * 🚧 Foundation Models
+  * [Foundation Models](https://hai.stanford.edu/news/what-foundation-model-explainer-non-experts)
   * 🚧 Generative Pre-trained Transformer
 * Use cases for generative AI
-  * Retrieval-Augmented Generation (RAG)
+  * [Retrieval-Augmented Generation (RAG)](https://qdrant.tech/articles/what-is-rag-in-ai/)
   * [Image segmentation](https://segment-anything.com/)
 * Hands-on 
-  * [Hands-on: GitHub Copilot](notebooks/github-copilot-exercise.md)
+  * 🚧 Hands-on: GitHub Copilot
   * 🚧 Hands-on: Using LLMs
+* Business impact
+  * [HAI AI Index Report](https://hai.stanford.edu/research/ai-index-report)
 
 ## Running the Jupyter notebooks
 
