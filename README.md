@@ -12,7 +12,7 @@ The following table of contents is helpful if you want to navigate the material 
 * [Multi-layer Perceptron (MLP)](notebooks/multi-layer-perceptron.ipynb)
   * [Backpropagation](notebooks/backpropagation.ipynb)
   * [Training an MLP](notebooks/mlp-training.ipynb)
-    * 🚧 Gradient
+    * [Gradient](notebooks/gradient.ipynb)
   * [MNIST example](notebooks/mnist.ipynb)
 * [Sequence-to-sequence tasks](https://lena-voita.github.io/nlp_course/seq2seq_and_attention.html#seq2seq_basics_intro)
 * [Encoder-decoder framework](https://lena-voita.github.io/nlp_course/seq2seq_and_attention.html#enc_dec_framework)
@@ -20,17 +20,17 @@ The following table of contents is helpful if you want to navigate the material 
   * [RNN example](notebooks/rnn.ipynb)
 * [Attention](https://lena-voita.github.io/nlp_course/seq2seq_and_attention.html#attention)
 * [Self-Attention](https://lena-voita.github.io/nlp_course/seq2seq_and_attention.html#self_attention)
-* Positional Encoding
-* Normalization
+* 🚧 Positional Encoding
+* 🚧 Normalization
 * [Transformer architecture](https://lena-voita.github.io/nlp_course/seq2seq_and_attention.html#transformer_model_architecture)
   * 🚧 Foundation Models
   * 🚧 Generative Pre-trained Transformer
 * Use cases for generative AI
   * Retrieval-Augmented Generation (RAG)
-  * Image segmentation
+  * [Image segmentation](https://segment-anything.com/)
 * Hands-on 
   * [Hands-on: GitHub Copilot](notebooks/github-copilot-exercise.md)
-  * [Hands-on: Using LLMs]()
+  * 🚧 Hands-on: Using LLMs
 
 ## Running the Jupyter notebooks
 
